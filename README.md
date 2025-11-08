@@ -36,6 +36,7 @@ python ozon_parser.py
 ```
 
 Готово! Откройте файл `ozon_products.json`, содержимое должно быть таким:
+
 <img width="674" height="391" alt="image" src="https://github.com/user-attachments/assets/42c910a7-1f59-49e9-838c-c38fd96d11b8" />
 
 > **Технологии**
