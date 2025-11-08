@@ -43,4 +43,5 @@ python ozon_parser.py
 ```bash
 Python 3.x
 Selenium
-undetected-chromedriver```
+undetected-chromedriver
+```
